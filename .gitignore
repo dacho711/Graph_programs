@@ -1,0 +1,19 @@
+# --- Python 関連 ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- VS Code 関連 ---
+.vscode/
+
+# --- データ・画像（無視したいもの） ---
+*.csv
+*.jpg
+*.png
+*.xlsx
+
+# --- 特定のフォルダをまるごと無視 ---
+未使用/
