@@ -10,7 +10,7 @@ env/
 .vscode/
 
 # --- データ・画像（無視したいもの） ---
-*.csv
+
 *.jpg
 *.png
 *.xlsx
